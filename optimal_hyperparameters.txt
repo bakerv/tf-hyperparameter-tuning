@@ -1,1 +1,0 @@
-batch_size = 1024 Dense units: 160 Learning rate: 0.1 Conv filters: 16
